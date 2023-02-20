@@ -1,0 +1,12 @@
+C:\Users\kenji\source\repos\AirBnB\AirBnB\bin\Debug\AirBnB.exe.config
+C:\Users\kenji\source\repos\AirBnB\AirBnB\bin\Debug\AirBnB.exe
+C:\Users\kenji\source\repos\AirBnB\AirBnB\bin\Debug\AirBnB.pdb
+C:\Users\kenji\source\repos\AirBnB\AirBnB\bin\Debug\AirBnB.xml
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.vbproj.AssemblyReference.cache
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.Form1.resources
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.Resources.resources
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.vbproj.GenerateResource.cache
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.vbproj.CoreCompileInputs.cache
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.exe
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.xml
+C:\Users\kenji\source\repos\AirBnB\AirBnB\obj\Debug\AirBnB.pdb
